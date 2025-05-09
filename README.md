@@ -1,4 +1,4 @@
-# -
+# 二维叶型生成软件
 A two-dimensional blade generation software
 
 #
